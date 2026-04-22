@@ -1,7 +1,7 @@
 Hi, I'm Renan Ribeiro!
 A 22 year old web developer from brazil
 About me:
-📚 I’m currently learning HTML, CSS, JavaScript, TypeScript, Next.JS, Python, PHP and .NET/C#
+📚 I’m currently learning HTML, CSS, JavaScript, Python and .NET/C#
 
 📫 I'm working at Faurecia Automotive of Brazil as Support Software
 
