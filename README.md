@@ -1,7 +1,7 @@
 Hi, I'm Renan Ribeiro!
 A 22 year old web developer from brazil
 About me:
-📚 I’m currently learning HTML, CSS, JavaScript, Python and .NET/C#
+📚 I’m currently learning HTML, CSS, JavaScript, Python and C#
 
 📫 I'm working at Faurecia Automotive of Brazil as Support Software
 
@@ -9,12 +9,10 @@ About me:
 
 💻 My LinkedIn is https://www.linkedin.com/in/renan-ribeiro-605573215
 
-♟ My Pronouns are he/him
-
 🎵 Fun fact: I take photos in my free time.
 
 Languages and Tools:
-HTML5 CSS3 JavaScript Python C# TypeScript Angular
+HTML5 CSS3 JavaScript Python C#
 
  GitHub stats
 
