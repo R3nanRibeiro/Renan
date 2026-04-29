@@ -8,7 +8,7 @@
 ### ⚛️ Technologies
 
 #### Frontend:
-<a  target="_blank" href="https://www.Angular.org/">
+<a  target="_blank" href="https://www.angular.org/">
     <img src="https://img.shields.io/badge/typescript%20-%61DAFB33.svg?&style=for-the-badge&logo=typescript&logoColor=black&color=3278C6"/>
   </a>
   
@@ -16,7 +16,7 @@
 #### Backend:
 
 <div>
-   <a  target="_blank" href="https://C#.org/en/">
+   <a  target="_blank" href="https://c#.org/en/">
     <img src="https://img.shields.io/badge/NodeJs%20-%61DAFB33.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=75AC64"/>
   </a>
   <a target="_blank" href="https://python.org/">
